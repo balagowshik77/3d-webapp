@@ -1,6 +1,6 @@
 [
     {
-      "origin": ["http://localhost:3000"],
+      "origin": ["https://3d-webapp.vercel.app"],
       "method": ["GET"],
       "maxAgeSeconds": 3600
     }
